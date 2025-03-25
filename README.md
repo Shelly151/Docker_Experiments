@@ -1,4 +1,4 @@
-# 🚀 My Docker Projects
+![image](https://github.com/user-attachments/assets/bf38ed60-d9e1-4d9f-b5be-305cc5bee16d)# 🚀 My Docker Projects
 
 Welcome to my **Docker, Kubernetes, and ML Projects** repository! 🎯 This serves as a central hub for all my containerized projects, complete with step-by-step deployment guides.
 
@@ -26,6 +26,10 @@ Welcome to my **Docker, Kubernetes, and ML Projects** repository! 🎯 This serv
 | **6️⃣ Streamlit & PostgreSQL in Docker** | Deploy a Streamlit app connected to PostgreSQL using Docker | [GitHub Repo](https://github.com/Shelly151/Docker_Full-Stack.git) |
 | **7️⃣ Minikube & Kubectl Lab** | Set up a local Kubernetes cluster and deploy apps | [GitHub Repo](https://github.com/Shelly151/Minikube-and-Kucetl.git) |
 | **8️⃣ ML Model Deployment using Docker & EC2** | Deploy a Dockerized ML Model using Streamlit on AWS EC2 | [GitHub Repo](https://github.com/Shelly151/EC2-Streamlit.git) |
+| **9️⃣ Titanic Survival** | Machine learning web application that predicts whether a passenger would have survived the Titanic disaster. | [GitHub Repo](https://github.com/Shelly151/titanic-survival.git) |
+| **🔟 Evidential AI** | etting up an Evidently AI-based Streamlit application running inside a Docker container. | [GitHub Repo](https://github.com/Shelly151/Evidential-Ai.git) |
+
+
 
 ---
 
