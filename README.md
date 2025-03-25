@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bf38ed60-d9e1-4d9f-b5be-305cc5bee16d)# 🚀 My Docker Projects
+🚀 My Docker Projects
 
 Welcome to my **Docker, Kubernetes, and ML Projects** repository! 🎯 This serves as a central hub for all my containerized projects, complete with step-by-step deployment guides.
 
