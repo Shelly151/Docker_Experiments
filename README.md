@@ -30,7 +30,7 @@ Welcome to my **Docker, Kubernetes, and ML Projects** repository! 🎯 This serv
 | **10 Evidential AI** | Setting up an Evidently AI-based Streamlit application running inside a Docker container. | [GitHub Repo](https://github.com/Shelly151/Evidential-Ai.git) |
 | **11 Docker Bridge** | Demonstrate network isolation in Docker containers | [GitHub Repo](https://github.com/Shelly151/Docker_bridge.git) |
 | **12 Baker Foundation** | Setting up and using Packer to create a machine image (AMI). | [GitHub Repo](https://github.com/Shelly151/bakery-example.git) |
-| **Main 4 pages project** | ML Project. | [GitHub Repo](https://github.com/Shelly151/final-project.git) |
+| **Main 4 pages project** | ML Project. | [GitHub Repo](https://github.com/Shelly151/Final-Project-101.git) |
 
 
 
