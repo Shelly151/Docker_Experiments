@@ -19,7 +19,7 @@ Welcome to my **Docker, Kubernetes, and ML Projects** repository! 🎯 This serv
 | 🔹 **Project** | 📌 **Description** | 🔗 **Repo Link** |
 |--------------|----------------|-------------|
 | **1️ Docker Basics** | Learn fundamental Docker commands and concepts | [GitHub Repo](https://github.com/Shelly151/Docker_basics.git) |
-| **2️ Docker ML Mushroom Classifier** | Deploy an ML model for mushroom classification using Docker | [GitHub Repo](https://github.com/Shelly151/ML-Mushroom_Docker.git) |
+| **2️ Docker ML Mushroom Classifier** | Deploy an ML model for mushroom classification using Docker | [GitHub Repo](https://github.com/Shelly151/My-mushroom-docker.git) |
 | **3️ MySQL using Docker** | Set up and run MySQL inside a Docker container | [GitHub Repo](https://github.com/Shelly151/MySQL_Docker.git) |
 | **4️ Docker Volume Persistence** | Persist data across containers using Docker volumes | [GitHub Repo](https://github.com/Shelly151/Docker_Volume.git) |
 | **5️ Docker Container Communication** | Set up container-to-container communication in Docker | [GitHub Repo](https://github.com/Shelly151/Docker_Network.git) |
